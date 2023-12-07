@@ -1,4 +1,4 @@
-package lesson3;
+package lesson3.homework1;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
@@ -6,7 +6,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
-public class Homework1 {
+public class Task4 {
+//    Написать программу, которая повторит действия на видео.
+
     public static void main(String[] args) throws InterruptedException {
         WebDriverManager.chromedriver().setup();
         ChromeOptions options = new ChromeOptions();
