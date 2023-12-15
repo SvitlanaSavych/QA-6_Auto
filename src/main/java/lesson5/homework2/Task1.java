@@ -1,7 +1,6 @@
 package lesson5.homework2;
 
 import driverFactory.DriverSetUp;
-import lesson5.TaskForLesson5;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

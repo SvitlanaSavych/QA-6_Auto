@@ -2,7 +2,6 @@ package lesson3.homework1;
 
 import driverFactory.DriverSetUp;
 import org.openqa.selenium.By;
-import org.openqa.selenium.ScreenOrientation;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
